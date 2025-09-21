@@ -48,9 +48,10 @@ h2 {
 
 
 .project img {
-  width: 75%;     
+  display: block;    
+  margin: 0 auto;
+  width: 75%;
   height: auto;
-  img-align: center;     
   object-fit: cover;
   border-radius: 6px;
 }
@@ -75,6 +76,7 @@ button {
 button:hover {
   background: #05c312;
 }
+
 
 
 
